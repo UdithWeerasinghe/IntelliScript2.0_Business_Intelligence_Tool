@@ -1,0 +1,1122 @@
+{
+  "sales": [],
+  "inventory": [
+    {
+      "date": "2016-07-01",
+      "value": 919.9999999999999,
+      "units_sold": 50,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2016-07-01",
+      "value": 26.0,
+      "units_sold": 1,
+      "units_in_stock": 11
+    },
+    {
+      "date": "2016-07-01",
+      "value": 475.0,
+      "units_sold": 25,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2016-07-01",
+      "value": 492.15000000000003,
+      "units_sold": 51,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2016-07-01",
+      "value": 1553.4,
+      "units_sold": 60,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2016-08-01",
+      "value": 1839.9999999999998,
+      "units_sold": 100,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2016-08-01",
+      "value": 750.0,
+      "units_sold": 12,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2016-08-01",
+      "value": 1209.0,
+      "units_sold": 39,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2016-08-01",
+      "value": 570.0,
+      "units_sold": 30,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2016-08-01",
+      "value": 180.0,
+      "units_sold": 30,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2016-08-01",
+      "value": 155.34,
+      "units_sold": 6,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2016-08-01",
+      "value": 375.0,
+      "units_sold": 25,
+      "units_in_stock": 101
+    },
+    {
+      "date": "2016-08-01",
+      "value": 180.0,
+      "units_sold": 15,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2016-10-01",
+      "value": 3750.0,
+      "units_sold": 60,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2016-10-01",
+      "value": 397.5,
+      "units_sold": 30,
+      "units_in_stock": 62
+    },
+    {
+      "date": "2016-10-01",
+      "value": 728.0,
+      "units_sold": 28,
+      "units_in_stock": 11
+    },
+    {
+      "date": "2016-10-01",
+      "value": 1140.0,
+      "units_sold": 60,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2016-10-01",
+      "value": 308.8,
+      "units_sold": 32,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2016-10-01",
+      "value": 72.0,
+      "units_sold": 12,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2016-10-01",
+      "value": 1501.6200000000001,
+      "units_sold": 58,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2016-10-01",
+      "value": 360.0,
+      "units_sold": 30,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2016-09-01",
+      "value": 919.9999999999999,
+      "units_sold": 50,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2016-09-01",
+      "value": 1562.5,
+      "units_sold": 25,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2016-09-01",
+      "value": 397.5,
+      "units_sold": 30,
+      "units_in_stock": 62
+    },
+    {
+      "date": "2016-09-01",
+      "value": 988.0,
+      "units_sold": 52,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2016-09-01",
+      "value": 96.5,
+      "units_sold": 10,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2016-09-01",
+      "value": 258.9,
+      "units_sold": 10,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2016-12-01",
+      "value": 562.5,
+      "units_sold": 9,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2016-12-01",
+      "value": 1258.75,
+      "units_sold": 95,
+      "units_in_stock": 62
+    },
+    {
+      "date": "2016-12-01",
+      "value": 496.0,
+      "units_sold": 16,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2016-12-01",
+      "value": 114.0,
+      "units_sold": 6,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2016-12-01",
+      "value": 77.2,
+      "units_sold": 8,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2016-12-01",
+      "value": 288.0,
+      "units_sold": 48,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2016-12-01",
+      "value": 466.02,
+      "units_sold": 18,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2016-12-01",
+      "value": 142.5,
+      "units_sold": 15,
+      "units_in_stock": 5
+    },
+    {
+      "date": "2016-12-01",
+      "value": 876.0,
+      "units_sold": 73,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2017-01-01",
+      "value": 956.8,
+      "units_sold": 52,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2017-01-01",
+      "value": 260.0,
+      "units_sold": 10,
+      "units_in_stock": 11
+    },
+    {
+      "date": "2017-01-01",
+      "value": 95.0,
+      "units_sold": 5,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2017-01-01",
+      "value": 241.25,
+      "units_sold": 25,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2017-01-01",
+      "value": 12.0,
+      "units_sold": 2,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2017-01-01",
+      "value": 466.02,
+      "units_sold": 18,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2017-01-01",
+      "value": 300.0,
+      "units_sold": 20,
+      "units_in_stock": 101
+    },
+    {
+      "date": "2017-01-01",
+      "value": 264.0,
+      "units_sold": 22,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2016-11-01",
+      "value": 73.6,
+      "units_sold": 4,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2016-11-01",
+      "value": 930.0,
+      "units_sold": 30,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2016-11-01",
+      "value": 380.0,
+      "units_sold": 20,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2016-11-01",
+      "value": 125.45,
+      "units_sold": 13,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2017-02-01",
+      "value": 368.0,
+      "units_sold": 20,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2017-02-01",
+      "value": 1054.0,
+      "units_sold": 34,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2017-02-01",
+      "value": 289.5,
+      "units_sold": 30,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2017-02-01",
+      "value": 724.9200000000001,
+      "units_sold": 28,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2017-02-01",
+      "value": 420.0,
+      "units_sold": 35,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2017-03-01",
+      "value": 1122.3999999999999,
+      "units_sold": 61,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2017-03-01",
+      "value": 1875.0,
+      "units_sold": 30,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2017-03-01",
+      "value": 620.0,
+      "units_sold": 20,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2017-03-01",
+      "value": 6.0,
+      "units_sold": 1,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2017-03-01",
+      "value": 207.12,
+      "units_sold": 8,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2017-03-01",
+      "value": 285.0,
+      "units_sold": 30,
+      "units_in_stock": 5
+    },
+    {
+      "date": "2017-03-01",
+      "value": 300.0,
+      "units_sold": 20,
+      "units_in_stock": 101
+    },
+    {
+      "date": "2017-03-01",
+      "value": 60.0,
+      "units_sold": 5,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2017-04-01",
+      "value": 552.0,
+      "units_sold": 30,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2017-04-01",
+      "value": 1562.5,
+      "units_sold": 25,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2017-04-01",
+      "value": 496.0,
+      "units_sold": 16,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2017-04-01",
+      "value": 1061.5,
+      "units_sold": 110,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2017-04-01",
+      "value": 60.0,
+      "units_sold": 10,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2017-04-01",
+      "value": 517.8,
+      "units_sold": 20,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2017-04-01",
+      "value": 199.5,
+      "units_sold": 21,
+      "units_in_stock": 5
+    },
+    {
+      "date": "2017-04-01",
+      "value": 108.0,
+      "units_sold": 9,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2017-05-01",
+      "value": 644.0,
+      "units_sold": 35,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2017-05-01",
+      "value": 265.0,
+      "units_sold": 20,
+      "units_in_stock": 62
+    },
+    {
+      "date": "2017-05-01",
+      "value": 468.0,
+      "units_sold": 18,
+      "units_in_stock": 11
+    },
+    {
+      "date": "2017-05-01",
+      "value": 62.0,
+      "units_sold": 2,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2017-05-01",
+      "value": 2280.0,
+      "units_sold": 120,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2017-05-01",
+      "value": 193.0,
+      "units_sold": 20,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2017-05-01",
+      "value": 108.0,
+      "units_sold": 18,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2017-05-01",
+      "value": 906.15,
+      "units_sold": 35,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2017-05-01",
+      "value": 950.0,
+      "units_sold": 100,
+      "units_in_stock": 5
+    },
+    {
+      "date": "2017-05-01",
+      "value": 495.0,
+      "units_sold": 33,
+      "units_in_stock": 101
+    },
+    {
+      "date": "2017-07-01",
+      "value": 772.8,
+      "units_sold": 42,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2017-07-01",
+      "value": 2500.0,
+      "units_sold": 40,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2017-07-01",
+      "value": 397.5,
+      "units_sold": 30,
+      "units_in_stock": 62
+    },
+    {
+      "date": "2017-07-01",
+      "value": 2480.0,
+      "units_sold": 80,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2017-07-01",
+      "value": 1444.0,
+      "units_sold": 76,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2017-07-01",
+      "value": 408.0,
+      "units_sold": 68,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2017-07-01",
+      "value": 450.0,
+      "units_sold": 30,
+      "units_in_stock": 101
+    },
+    {
+      "date": "2017-06-01",
+      "value": 956.8,
+      "units_sold": 52,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2017-06-01",
+      "value": 1125.0,
+      "units_sold": 18,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2017-06-01",
+      "value": 155.0,
+      "units_sold": 5,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2017-06-01",
+      "value": 475.0,
+      "units_sold": 25,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2017-06-01",
+      "value": 202.65,
+      "units_sold": 21,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2017-06-01",
+      "value": 517.8,
+      "units_sold": 20,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2017-06-01",
+      "value": 45.0,
+      "units_sold": 3,
+      "units_in_stock": 101
+    },
+    {
+      "date": "2017-09-01",
+      "value": 2649.6,
+      "units_sold": 144,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2017-09-01",
+      "value": 1046.75,
+      "units_sold": 79,
+      "units_in_stock": 62
+    },
+    {
+      "date": "2017-09-01",
+      "value": 1426.0,
+      "units_sold": 46,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2017-09-01",
+      "value": 684.0,
+      "units_sold": 36,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2017-09-01",
+      "value": 1621.2,
+      "units_sold": 168,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2017-09-01",
+      "value": 51.78,
+      "units_sold": 2,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2017-09-01",
+      "value": 750.0,
+      "units_sold": 50,
+      "units_in_stock": 101
+    },
+    {
+      "date": "2017-09-01",
+      "value": 1260.0,
+      "units_sold": 105,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2017-08-01",
+      "value": 1104.0,
+      "units_sold": 60,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2017-08-01",
+      "value": 5125.0,
+      "units_sold": 82,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2017-08-01",
+      "value": 79.5,
+      "units_sold": 6,
+      "units_in_stock": 62
+    },
+    {
+      "date": "2017-08-01",
+      "value": 558.0,
+      "units_sold": 18,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2017-08-01",
+      "value": 285.0,
+      "units_sold": 15,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2017-08-01",
+      "value": 78.0,
+      "units_sold": 13,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2017-08-01",
+      "value": 776.7,
+      "units_sold": 30,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2017-08-01",
+      "value": 190.0,
+      "units_sold": 20,
+      "units_in_stock": 5
+    },
+    {
+      "date": "2017-08-01",
+      "value": 525.0,
+      "units_sold": 35,
+      "units_in_stock": 101
+    },
+    {
+      "date": "2017-08-01",
+      "value": 276.0,
+      "units_sold": 23,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2017-10-01",
+      "value": 750.0,
+      "units_sold": 12,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2017-10-01",
+      "value": 556.5,
+      "units_sold": 42,
+      "units_in_stock": 62
+    },
+    {
+      "date": "2017-10-01",
+      "value": 2263.0,
+      "units_sold": 73,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2017-10-01",
+      "value": 855.0,
+      "units_sold": 45,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2017-10-01",
+      "value": 521.1,
+      "units_sold": 54,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2017-10-01",
+      "value": 77.67,
+      "units_sold": 3,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2017-10-01",
+      "value": 1045.0,
+      "units_sold": 110,
+      "units_in_stock": 5
+    },
+    {
+      "date": "2017-10-01",
+      "value": 750.0,
+      "units_sold": 50,
+      "units_in_stock": 101
+    },
+    {
+      "date": "2017-10-01",
+      "value": 504.0,
+      "units_sold": 42,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2017-11-01",
+      "value": 1821.6,
+      "units_sold": 99,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2017-11-01",
+      "value": 2812.5,
+      "units_sold": 45,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2017-11-01",
+      "value": 494.0,
+      "units_sold": 26,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2017-11-01",
+      "value": 453.55,
+      "units_sold": 47,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2017-11-01",
+      "value": 60.0,
+      "units_sold": 10,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2017-11-01",
+      "value": 1553.4,
+      "units_sold": 60,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2017-11-01",
+      "value": 798.0,
+      "units_sold": 84,
+      "units_in_stock": 5
+    },
+    {
+      "date": "2017-11-01",
+      "value": 225.0,
+      "units_sold": 15,
+      "units_in_stock": 101
+    },
+    {
+      "date": "2017-11-01",
+      "value": 336.0,
+      "units_sold": 28,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2017-12-01",
+      "value": 18.4,
+      "units_sold": 1,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2017-12-01",
+      "value": 1875.0,
+      "units_sold": 30,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2017-12-01",
+      "value": 1612.0,
+      "units_sold": 52,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2017-12-01",
+      "value": 570.0,
+      "units_sold": 30,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2017-12-01",
+      "value": 714.1,
+      "units_sold": 74,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2017-12-01",
+      "value": 120.0,
+      "units_sold": 20,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2017-12-01",
+      "value": 1035.6,
+      "units_sold": 40,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2017-12-01",
+      "value": 256.5,
+      "units_sold": 27,
+      "units_in_stock": 5
+    },
+    {
+      "date": "2018-02-01",
+      "value": 1895.1999999999998,
+      "units_sold": 103,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2018-02-01",
+      "value": 1562.5,
+      "units_sold": 25,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2018-02-01",
+      "value": 556.5,
+      "units_sold": 42,
+      "units_in_stock": 62
+    },
+    {
+      "date": "2018-02-01",
+      "value": 2480.0,
+      "units_sold": 80,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2018-02-01",
+      "value": 380.0,
+      "units_sold": 20,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2018-02-01",
+      "value": 472.85,
+      "units_sold": 49,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2018-02-01",
+      "value": 438.0,
+      "units_sold": 73,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2018-02-01",
+      "value": 3262.14,
+      "units_sold": 126,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2018-02-01",
+      "value": 142.5,
+      "units_sold": 15,
+      "units_in_stock": 5
+    },
+    {
+      "date": "2018-02-01",
+      "value": 150.0,
+      "units_sold": 10,
+      "units_in_stock": 101
+    },
+    {
+      "date": "2018-02-01",
+      "value": 252.0,
+      "units_sold": 21,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2018-04-01",
+      "value": 1011.9999999999999,
+      "units_sold": 55,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2018-04-01",
+      "value": 3312.5,
+      "units_sold": 53,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2018-04-01",
+      "value": 530.0,
+      "units_sold": 40,
+      "units_in_stock": 62
+    },
+    {
+      "date": "2018-04-01",
+      "value": 744.0,
+      "units_sold": 24,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2018-04-01",
+      "value": 1311.0,
+      "units_sold": 69,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2018-04-01",
+      "value": 1090.45,
+      "units_sold": 113,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2018-04-01",
+      "value": 1158.0,
+      "units_sold": 193,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2018-04-01",
+      "value": 388.35,
+      "units_sold": 15,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2018-04-01",
+      "value": 190.0,
+      "units_sold": 20,
+      "units_in_stock": 5
+    },
+    {
+      "date": "2018-04-01",
+      "value": 576.0,
+      "units_sold": 48,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2018-01-01",
+      "value": 2116.0,
+      "units_sold": 115,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2018-01-01",
+      "value": 3437.5,
+      "units_sold": 55,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2018-01-01",
+      "value": 1192.5,
+      "units_sold": 90,
+      "units_in_stock": 62
+    },
+    {
+      "date": "2018-01-01",
+      "value": 1560.0,
+      "units_sold": 60,
+      "units_in_stock": 11
+    },
+    {
+      "date": "2018-01-01",
+      "value": 4061.0,
+      "units_sold": 131,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2018-01-01",
+      "value": 950.0,
+      "units_sold": 50,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2018-01-01",
+      "value": 501.8,
+      "units_sold": 52,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2018-01-01",
+      "value": 546.0,
+      "units_sold": 91,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2018-01-01",
+      "value": 517.8,
+      "units_sold": 20,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2018-01-01",
+      "value": 342.0,
+      "units_sold": 36,
+      "units_in_stock": 5
+    },
+    {
+      "date": "2018-01-01",
+      "value": 420.0,
+      "units_sold": 35,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2018-03-01",
+      "value": 552.0,
+      "units_sold": 30,
+      "units_in_stock": 123
+    },
+    {
+      "date": "2018-03-01",
+      "value": 1125.0,
+      "units_sold": 18,
+      "units_in_stock": 42
+    },
+    {
+      "date": "2018-03-01",
+      "value": 397.5,
+      "units_sold": 30,
+      "units_in_stock": 62
+    },
+    {
+      "date": "2018-03-01",
+      "value": 208.0,
+      "units_sold": 8,
+      "units_in_stock": 11
+    },
+    {
+      "date": "2018-03-01",
+      "value": 2325.0,
+      "units_sold": 75,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2018-03-01",
+      "value": 1805.0,
+      "units_sold": 95,
+      "units_in_stock": 112
+    },
+    {
+      "date": "2018-03-01",
+      "value": 386.0,
+      "units_sold": 40,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2018-03-01",
+      "value": 1728.0,
+      "units_sold": 288,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2018-03-01",
+      "value": 802.59,
+      "units_sold": 31,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2018-03-01",
+      "value": 285.0,
+      "units_sold": 30,
+      "units_in_stock": 5
+    },
+    {
+      "date": "2018-03-01",
+      "value": 288.0,
+      "units_sold": 24,
+      "units_in_stock": 95
+    },
+    {
+      "date": "2018-05-01",
+      "value": 31.0,
+      "units_sold": 1,
+      "units_in_stock": 31
+    },
+    {
+      "date": "2018-05-01",
+      "value": 617.6,
+      "units_sold": 64,
+      "units_in_stock": 85
+    },
+    {
+      "date": "2018-05-01",
+      "value": 84.0,
+      "units_sold": 14,
+      "units_in_stock": 24
+    },
+    {
+      "date": "2018-05-01",
+      "value": 103.56,
+      "units_sold": 4,
+      "units_in_stock": 10
+    },
+    {
+      "date": "2018-05-01",
+      "value": 30.0,
+      "units_sold": 2,
+      "units_in_stock": 101
+    },
+    {
+      "date": "2018-05-01",
+      "value": 396.0,
+      "units_sold": 33,
+      "units_in_stock": 95
+    }
+  ],
+  "orders": []
+}

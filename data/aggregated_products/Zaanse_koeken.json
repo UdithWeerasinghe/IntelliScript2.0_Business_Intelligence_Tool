@@ -1,0 +1,415 @@
+{
+  "sales_data": [
+    {
+      "date": "2016-10-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 16,
+      "unit_price": 7.6
+    },
+    {
+      "date": "2017-01-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 55,
+      "unit_price": 7.6
+    },
+    {
+      "date": "2017-01-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 30,
+      "unit_price": 7.6
+    },
+    {
+      "date": "2017-03-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 30,
+      "unit_price": 7.6
+    },
+    {
+      "date": "2017-04-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 6,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-06-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 25,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-07-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 15,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-09-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 10,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-09-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 6,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-09-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 15,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-09-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 40,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-10-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 12,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-10-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 5,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-10-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 50,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-11-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 30,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-12-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 30,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2018-01-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 40,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2018-02-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 21,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2018-03-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 5,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2018-03-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 14,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2018-03-01",
+      "value": 0.0,
+      "source": "sales",
+      "quantity": 30,
+      "unit_price": 9.5
+    }
+  ],
+  "inventory_data": [
+    {
+      "date": "2016-10-01",
+      "value": 152.0,
+      "source": "inventory",
+      "units_sold": 16,
+      "units_in_stock": 36,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-01-01",
+      "value": 807.5,
+      "source": "inventory",
+      "units_sold": 85,
+      "units_in_stock": 36,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-03-01",
+      "value": 285.0,
+      "source": "inventory",
+      "units_sold": 30,
+      "units_in_stock": 36,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-04-01",
+      "value": 57.0,
+      "source": "inventory",
+      "units_sold": 6,
+      "units_in_stock": 36,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-06-01",
+      "value": 237.5,
+      "source": "inventory",
+      "units_sold": 25,
+      "units_in_stock": 36,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-07-01",
+      "value": 142.5,
+      "source": "inventory",
+      "units_sold": 15,
+      "units_in_stock": 36,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-09-01",
+      "value": 674.5,
+      "source": "inventory",
+      "units_sold": 71,
+      "units_in_stock": 36,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-10-01",
+      "value": 636.5,
+      "source": "inventory",
+      "units_sold": 67,
+      "units_in_stock": 36,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-11-01",
+      "value": 285.0,
+      "source": "inventory",
+      "units_sold": 30,
+      "units_in_stock": 36,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-12-01",
+      "value": 285.0,
+      "source": "inventory",
+      "units_sold": 30,
+      "units_in_stock": 36,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2018-01-01",
+      "value": 380.0,
+      "source": "inventory",
+      "units_sold": 40,
+      "units_in_stock": 36,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2018-02-01",
+      "value": 199.5,
+      "source": "inventory",
+      "units_sold": 21,
+      "units_in_stock": 36,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2018-03-01",
+      "value": 465.5,
+      "source": "inventory",
+      "units_sold": 49,
+      "units_in_stock": 36,
+      "unit_price": 9.5
+    }
+  ],
+  "order_data": [
+    {
+      "date": "2016-10-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 16,
+      "unit_price": 7.6
+    },
+    {
+      "date": "2017-01-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 55,
+      "unit_price": 7.6
+    },
+    {
+      "date": "2017-01-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 30,
+      "unit_price": 7.6
+    },
+    {
+      "date": "2017-03-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 30,
+      "unit_price": 7.6
+    },
+    {
+      "date": "2017-04-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 6,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-06-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 25,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-07-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 15,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-09-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 10,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-09-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 6,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-09-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 15,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-09-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 40,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-10-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 12,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-10-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 5,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-10-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 50,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-11-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 30,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2017-12-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 30,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2018-01-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 40,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2018-02-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 21,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2018-03-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 5,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2018-03-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 14,
+      "unit_price": 9.5
+    },
+    {
+      "date": "2018-03-01",
+      "value": 0.0,
+      "source": "order",
+      "quantity": 30,
+      "unit_price": 9.5
+    }
+  ],
+  "metadata": {
+    "first_seen": "2016-10-01",
+    "last_seen": "2018-03-01",
+    "sources": [
+      "sales",
+      "inventory",
+      "order"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "sales": [],
+  "inventory": [
+    {
+      "date": "2016-07-01",
+      "value": 1267.5,
+      "units_sold": 65,
+      "units_in_stock": 36
+    },
+    {
+      "date": "2016-08-01",
+      "value": 39.0,
+      "units_sold": 2,
+      "units_in_stock": 36
+    },
+    {
+      "date": "2016-10-01",
+      "value": 312.0,
+      "units_sold": 16,
+      "units_in_stock": 36
+    },
+    {
+      "date": "2017-01-01",
+      "value": 390.0,
+      "units_sold": 20,
+      "units_in_stock": 36
+    },
+    {
+      "date": "2016-11-01",
+      "value": 975.0,
+      "units_sold": 50,
+      "units_in_stock": 36
+    },
+    {
+      "date": "2017-02-01",
+      "value": 292.5,
+      "units_sold": 15,
+      "units_in_stock": 36
+    },
+    {
+      "date": "2017-05-01",
+      "value": 97.5,
+      "units_sold": 5,
+      "units_in_stock": 36
+    },
+    {
+      "date": "2017-07-01",
+      "value": 390.0,
+      "units_sold": 20,
+      "units_in_stock": 36
+    },
+    {
+      "date": "2017-06-01",
+      "value": 195.0,
+      "units_sold": 10,
+      "units_in_stock": 36
+    },
+    {
+      "date": "2017-10-01",
+      "value": 780.0,
+      "units_sold": 40,
+      "units_in_stock": 36
+    },
+    {
+      "date": "2017-11-01",
+      "value": 273.0,
+      "units_sold": 14,
+      "units_in_stock": 36
+    },
+    {
+      "date": "2018-01-01",
+      "value": 1248.0,
+      "units_sold": 64,
+      "units_in_stock": 36
+    },
+    {
+      "date": "2018-02-01",
+      "value": 390.0,
+      "units_sold": 20,
+      "units_in_stock": 36
+    },
+    {
+      "date": "2018-04-01",
+      "value": 936.0,
+      "units_sold": 48,
+      "units_in_stock": 36
+    },
+    {
+      "date": "2018-03-01",
+      "value": 877.5,
+      "units_sold": 45,
+      "units_in_stock": 36
+    }
+  ],
+  "orders": []
+}

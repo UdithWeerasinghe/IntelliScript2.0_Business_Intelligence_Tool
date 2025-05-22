@@ -1,0 +1,36 @@
+{
+  "sales": [],
+  "inventory": [
+    {
+      "date": "2017-01-01",
+      "value": 1940.0,
+      "units_sold": 20,
+      "units_in_stock": 29
+    },
+    {
+      "date": "2017-04-01",
+      "value": 1552.0,
+      "units_sold": 16,
+      "units_in_stock": 29
+    },
+    {
+      "date": "2017-09-01",
+      "value": 4850.0,
+      "units_sold": 50,
+      "units_in_stock": 29
+    },
+    {
+      "date": "2017-10-01",
+      "value": 582.0,
+      "units_sold": 6,
+      "units_in_stock": 29
+    },
+    {
+      "date": "2018-01-01",
+      "value": 291.0,
+      "units_sold": 3,
+      "units_in_stock": 29
+    }
+  ],
+  "orders": []
+}

@@ -1,0 +1,165 @@
+{
+  "sales_data": [],
+  "inventory_data": [
+    {
+      "date": "2016-07-01",
+      "value": 736.75,
+      "source": "inventory",
+      "units_sold": 35,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2016-09-01",
+      "value": 631.5,
+      "source": "inventory",
+      "units_sold": 30,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2016-10-01",
+      "value": 842.0,
+      "source": "inventory",
+      "units_sold": 40,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2016-11-01",
+      "value": 631.5,
+      "source": "inventory",
+      "units_sold": 30,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2016-12-01",
+      "value": 421.0,
+      "source": "inventory",
+      "units_sold": 20,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2017-01-01",
+      "value": 421.0,
+      "source": "inventory",
+      "units_sold": 20,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2017-02-01",
+      "value": 1326.15,
+      "source": "inventory",
+      "units_sold": 63,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2017-04-01",
+      "value": 1557.7,
+      "source": "inventory",
+      "units_sold": 74,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2017-05-01",
+      "value": 757.8000000000001,
+      "source": "inventory",
+      "units_sold": 36,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2017-06-01",
+      "value": 631.5,
+      "source": "inventory",
+      "units_sold": 30,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2017-07-01",
+      "value": 252.60000000000002,
+      "source": "inventory",
+      "units_sold": 12,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2017-08-01",
+      "value": 442.05,
+      "source": "inventory",
+      "units_sold": 21,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2017-09-01",
+      "value": 778.85,
+      "source": "inventory",
+      "units_sold": 37,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2017-10-01",
+      "value": 1368.25,
+      "source": "inventory",
+      "units_sold": 65,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2017-11-01",
+      "value": 1052.5,
+      "source": "inventory",
+      "units_sold": 50,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2017-12-01",
+      "value": 1726.1000000000001,
+      "source": "inventory",
+      "units_sold": 82,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2018-01-01",
+      "value": 315.75,
+      "source": "inventory",
+      "units_sold": 15,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2018-02-01",
+      "value": 1347.2,
+      "source": "inventory",
+      "units_sold": 64,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    },
+    {
+      "date": "2018-04-01",
+      "value": 442.05,
+      "source": "inventory",
+      "units_sold": 21,
+      "units_in_stock": 76,
+      "unit_price": 21.05
+    }
+  ],
+  "order_data": [],
+  "metadata": {
+    "first_seen": "2016-07-01",
+    "last_seen": "2018-04-01",
+    "sources": [
+      "inventory"
+    ]
+  }
+}

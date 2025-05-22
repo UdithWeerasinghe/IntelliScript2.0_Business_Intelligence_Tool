@@ -1,0 +1,108 @@
+{
+  "sales": [],
+  "inventory": [
+    {
+      "date": "2016-07-01",
+      "value": 864.0,
+      "units_sold": 48,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2016-10-01",
+      "value": 72.0,
+      "units_sold": 4,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2016-09-01",
+      "value": 1620.0,
+      "units_sold": 90,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2016-12-01",
+      "value": 360.0,
+      "units_sold": 20,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2016-11-01",
+      "value": 1872.0,
+      "units_sold": 104,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2017-02-01",
+      "value": 468.0,
+      "units_sold": 26,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2017-03-01",
+      "value": 360.0,
+      "units_sold": 20,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2017-04-01",
+      "value": 180.0,
+      "units_sold": 10,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2017-07-01",
+      "value": 90.0,
+      "units_sold": 5,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2017-06-01",
+      "value": 180.0,
+      "units_sold": 10,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2017-09-01",
+      "value": 414.0,
+      "units_sold": 23,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2017-08-01",
+      "value": 738.0,
+      "units_sold": 41,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2017-12-01",
+      "value": 2664.0,
+      "units_sold": 148,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2018-01-01",
+      "value": 1062.0,
+      "units_sold": 59,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2018-02-01",
+      "value": 2394.0,
+      "units_sold": 133,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2018-03-01",
+      "value": 540.0,
+      "units_sold": 30,
+      "units_in_stock": 69
+    },
+    {
+      "date": "2018-05-01",
+      "value": 396.0,
+      "units_sold": 22,
+      "units_in_stock": 69
+    }
+  ],
+  "orders": []
+}

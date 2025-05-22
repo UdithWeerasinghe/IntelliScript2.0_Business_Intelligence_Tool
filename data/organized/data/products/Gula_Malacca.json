@@ -1,0 +1,102 @@
+{
+  "sales": [],
+  "inventory": [
+    {
+      "date": "2016-08-01",
+      "value": 1186.45,
+      "units_sold": 61,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2017-01-01",
+      "value": 778.0,
+      "units_sold": 40,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2016-11-01",
+      "value": 1497.6499999999999,
+      "units_sold": 77,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2017-02-01",
+      "value": 1945.0,
+      "units_sold": 100,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2017-03-01",
+      "value": 330.65,
+      "units_sold": 17,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2017-04-01",
+      "value": 175.04999999999998,
+      "units_sold": 9,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2017-05-01",
+      "value": 778.0,
+      "units_sold": 40,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2017-06-01",
+      "value": 602.9499999999999,
+      "units_sold": 31,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2017-09-01",
+      "value": 953.05,
+      "units_sold": 49,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2017-08-01",
+      "value": 194.5,
+      "units_sold": 10,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2017-10-01",
+      "value": 1439.3,
+      "units_sold": 74,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2017-11-01",
+      "value": 311.2,
+      "units_sold": 16,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2017-12-01",
+      "value": 194.5,
+      "units_sold": 10,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2018-01-01",
+      "value": 311.2,
+      "units_sold": 16,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2018-04-01",
+      "value": 525.15,
+      "units_sold": 27,
+      "units_in_stock": 27
+    },
+    {
+      "date": "2018-03-01",
+      "value": 466.79999999999995,
+      "units_sold": 24,
+      "units_in_stock": 27
+    }
+  ],
+  "orders": []
+}

@@ -1,0 +1,108 @@
+{
+  "sales": [],
+  "inventory": [
+    {
+      "date": "2016-10-01",
+      "value": 2311.02,
+      "units_sold": 74,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2016-12-01",
+      "value": 2186.1,
+      "units_sold": 70,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2017-01-01",
+      "value": 2248.56,
+      "units_sold": 72,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2016-11-01",
+      "value": 499.68,
+      "units_sold": 16,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2017-02-01",
+      "value": 1592.73,
+      "units_sold": 51,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2017-03-01",
+      "value": 936.9,
+      "units_sold": 30,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2017-05-01",
+      "value": 1249.2,
+      "units_sold": 40,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2017-07-01",
+      "value": 343.53000000000003,
+      "units_sold": 11,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2017-09-01",
+      "value": 1405.35,
+      "units_sold": 45,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2017-08-01",
+      "value": 1093.05,
+      "units_sold": 35,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2017-10-01",
+      "value": 1405.35,
+      "units_sold": 45,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2017-11-01",
+      "value": 999.36,
+      "units_sold": 32,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2017-12-01",
+      "value": 655.83,
+      "units_sold": 21,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2018-01-01",
+      "value": 3279.15,
+      "units_sold": 105,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2018-02-01",
+      "value": 624.6,
+      "units_sold": 20,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2018-04-01",
+      "value": 2529.63,
+      "units_sold": 81,
+      "units_in_stock": 15
+    },
+    {
+      "date": "2018-03-01",
+      "value": 156.15,
+      "units_sold": 5,
+      "units_in_stock": 15
+    }
+  ],
+  "orders": []
+}

@@ -1,0 +1,11 @@
+{
+    "parameters": {
+        "changepoint_prior_scale": 0.1,
+        "seasonality_prior_scale": 1.0,
+        "seasonality_mode": "multiplicative",
+        "yearly_seasonality": true,
+        "weekly_seasonality": true,
+        "daily_seasonality": false
+    },
+    "mape": 21.953388770761798
+}

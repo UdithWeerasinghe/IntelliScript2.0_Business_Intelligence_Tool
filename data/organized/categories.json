@@ -1,0 +1,134 @@
+{
+  "Beverages": {
+    "name": "Beverages",
+    "products": [
+      "Chai",
+      "Chang",
+      "Steeleye Stout",
+      "Lakkalik\u00c3\u00b6\u00c3\u00b6ri",
+      "Outback Lager",
+      "Ipoh Coffee",
+      "Rh\u00c3\u00b6nbr\u00c3\u00a4u Klosterbier",
+      "Sasquatch Ale",
+      "C\u00c3\u00b4te de Blaye",
+      "Guaran\u00c3\u00a1 Fant\u00c3\u00a1stica",
+      "Laughing Lumberjack..",
+      "Chartreuse verte"
+    ],
+    "first_seen": "2016-07-01",
+    "last_seen": "2018-05-01"
+  },
+  "Condiments": {
+    "name": "Condiments",
+    "products": [
+      "Chef Anton's Cajun..",
+      "Louisiana Hot Spiced..",
+      "Louisiana Fiery Hot..",
+      "Gula Malacca",
+      "Original Frankfurter..",
+      "Vegie-spread",
+      "Aniseed Syrup",
+      "Sirop d'\u00c3\u00a9rable",
+      "Northwoods Cranberry..",
+      "Chef Anton's Gumbo Mix",
+      "Genen Shouyu",
+      "Grandma's Boysenberry.."
+    ],
+    "first_seen": "2016-07-01",
+    "last_seen": "2018-05-01"
+  },
+  "Confections": {
+    "name": "Confections",
+    "products": [
+      "Scottish Longbreads",
+      "Valkoinen suklaa",
+      "Sir Rodney's Marmalade",
+      "Schoggi Schokolade",
+      "Gumb\u00c3\u00a4r Gummib\u00c3\u00a4rchen",
+      "Zaanse koeken",
+      "Tarte au sucre",
+      "Pavlova",
+      "Teatime Chocolate..",
+      "Sir Rodney's Scones",
+      "Chocolade",
+      "Maxilaku"
+    ],
+    "first_seen": "2016-07-01",
+    "last_seen": "2018-05-01"
+  },
+  "Dairy": {
+    "name": "Dairy",
+    "products": [
+      "Products Queso Cabrales",
+      "Products Queso Manchego La..",
+      "Products Flotemysost",
+      "Products Mascarpone Fabioli",
+      "Products Camembert Pierrot",
+      "Products Gorgonzola Telino",
+      "Products Gudbrandsdalsost",
+      "Products Mozzarella di Giovanni",
+      "Products Geitost",
+      "Products Raclette Courdavault"
+    ],
+    "first_seen": "2016-07-01",
+    "last_seen": "2018-05-01"
+  },
+  "Grains/Cereals": {
+    "name": "Grains/Cereals",
+    "products": [
+      "Filo Mix",
+      "Singaporean Hokkien..",
+      "Gnocchi di nonna Alice",
+      "Gustaf's Kn\u00c3\u00a4ckebr\u00c3\u00b6d",
+      "Tunnbr\u00c3\u00b6d",
+      "Ravioli Angelo",
+      "Wimmers gute.."
+    ],
+    "first_seen": "2016-07-01",
+    "last_seen": "2018-05-01"
+  },
+  "Meat/Poultry": {
+    "name": "Meat/Poultry",
+    "products": [
+      "Tourti\u00c3\u00a8re",
+      "Th\u00c3\u00bcringer Rostbratwurst",
+      "P\u00c3\u00a2t\u00c3\u00a9 chinois",
+      "Mishi Kobe Niku",
+      "Perth Pasties",
+      "Alice Mutton"
+    ],
+    "first_seen": "2016-07-01",
+    "last_seen": "2018-05-01"
+  },
+  "Produce": {
+    "name": "Produce",
+    "products": [
+      "Tofu",
+      "R\u00c3\u00b6ssle Sauerkraut",
+      "Longlife Tofu",
+      "Uncle Bob's Organic..",
+      "Manjimup Dried Apples"
+    ],
+    "first_seen": "2016-07-01",
+    "last_seen": "2018-05-01"
+  },
+  "Seafood": {
+    "name": "Seafood",
+    "products": [
+      "Boston Crab Meat",
+      "R\u00c3\u00b6d Kaviar",
+      "Ikura",
+      "Gravad lax",
+      "Escargots de Bourgogne",
+      "Inlagd Sill",
+      "Nord-Ost Matjeshering",
+      "Carnarvon Tigers",
+      "Jack's New England..",
+      "Rogede sild",
+      "Spegesild",
+      "Konbu"
+    ],
+    "first_seen": "2016-07-01",
+    "last_seen": "2018-05-01"
+  }
+}
